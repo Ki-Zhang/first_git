@@ -2,3 +2,4 @@
 Git is a free and convenient software under the GPL.
 Start your Git!
 Git tracks changes.
+Git has a mutable index called stage.
